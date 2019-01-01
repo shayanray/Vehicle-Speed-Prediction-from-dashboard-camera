@@ -20,22 +20,14 @@ Obviously, it is a Regression problem.
 # Techniques tried out
 
 • With and without Semantic Segmentation
+
 • Dense Optical Flow
+
 • Sparse Optical Flow
+
 • LSTM
+
 • SVM
-
-## setup data folder
-Download the data.zip from here:
-https://drive.google.com/open?id=1lknCbRrBBSNxJM4FbcoKtBlGNBqeipSS
-
-Extract the data.zip at the same level as this README file
-
-Delete the images (to regenerate again from video)
-
-data\train\imgs
-
-data\test\imgs
 
 
 # References:
