@@ -1,5 +1,4 @@
-# ComputerVision-Fall2018
-Predicting Vehicle Speed From Dashcam Video
+# Using Computer Vision and Deep Learning techniques to Predict Vehicle Speed From Dashcam Videos....
 
 # Challenges/Motivation:
 	• Geometry unforgiving
